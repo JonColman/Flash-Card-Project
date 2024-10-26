@@ -30,7 +30,8 @@ Users can compile their own lists of translations to use in the program. The use
 
 For example: turkish_words.csv
 
-This is so that the project can recognise the language name, and label accordingly.
+This is so that the project can recognise the language name, and label accordingly. All translation files must be saved
+in the data directory
 
 ### CSV Layout
 
